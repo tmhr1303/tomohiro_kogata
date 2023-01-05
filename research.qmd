@@ -1,8 +1,8 @@
----
+s---
 title: "Research"
 ---
 
-[English](https://tmhr1303.github.io/tomohiro_kogata/research.html)
+[English](https://tmhr1303.github.io/tomohiro_kogata/research_english.html)
 
 Under construction
 
