@@ -1,0 +1,34 @@
+---
+title: "Publication"
+bibliography: references.bib
+csl: https://www.zotero.org/styles/vancouver
+nocite: | 
+  # nocite: means expressing bibliography without citation
+  @Kogata2022
+  @kogata2021
+  @hoshino2020
+  @iidaka2019
+  @xiaofangzhìguang2019
+  @kogata2018
+
+reference-section-title: Article
+---
+
+[English](https://tmhr1303.github.io/tomohiro_kogata/publication_english.html)
+
+## Article
+
+::: {#refs}
+:::
+
+## Book
+
+# Presentation
+
+## Oral
+
+-   
+
+## Poster
+
+-   

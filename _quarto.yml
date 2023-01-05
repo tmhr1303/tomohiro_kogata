@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tomohiro Kogata"
+  
+  twitter-card: true
+  open-graph: true
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        icon: person-lines-fill
+        text: About
+      - href: research.qmd
+        icon: search
+        text: Research
+      - href: publication.qmd
+        icon: file-earmark-text-fill
+        text: Publication
+      - href: news.qmd
+        icon: bell-fill
+        text: News
+      - href: blog.qmd
+        icon: vector-pen
+        text: Blog
+  
+  page-footer: 
+    center: "{{< fa graduation-cap >}} Tomohiro Kogata, 2023" 
+    background: light
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    abstract-title: Research website by Tomohiro Kogata
+    keywords: 小方智広 作業療法 作業療法士 精神科作業療法 Tomohiro Kogata Occupational Therapy
+
+editor: visual
+

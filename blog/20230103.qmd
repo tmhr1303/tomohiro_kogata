@@ -1,0 +1,10 @@
+---
+title: "websiteオープン"
+description: ""
+date: "1/3/2023"
+categories:
+  - news
+---
+
+ウェブサイトを作りました。\
+[Quarto](https://quartopub.com)を使用して構築しています。
