@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  
+  title: "Tomohiro Kogata"
   favicon: logo/TK_logo_basic.png
   
   twitter-card:

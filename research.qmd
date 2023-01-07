@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-[English](https://tmhr1303.github.io/tomohiro_kogata/research_english.html)
+[English](research_english.qmd)
 
 Under construction
 

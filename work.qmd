@@ -2,7 +2,7 @@
 title: "Work"
 ---
 
-[English](https://tmhr1303.github.io/tomohiro_kogata/publication_english.html)
+[English](work_english.qmd)
 
 # Publication
 
@@ -50,7 +50,7 @@ nocite: |
 
 -   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Epifanio Bagarinao. Classification of resting-state fMRI in autism and control subjects using a support vector machine. Annual Meeting of the Organization for Human Brain Mapping (2017).
 
--   Tetsuya Iidaka, **Tomohiro Kogata**, Epifanio Bagarinao. Effects of global signal regression and head movement on connectivity analysis using resting state functional magnetic resonance imaging. Neuroscience (2017).
+-   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Epifanio Bagarinao. Effects of global signal regression and head movement on connectivity analysis using resting state functional magnetic resonance imaging. Neuroscience (2017).
 
 -   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Yoko Mano. A resting state fMRI study in autism spectrum disorder. BrainConnects (2018).
 

@@ -1,7 +1,16 @@
 ---
-title: ""
+title: "Work"
+---
+
+# Publication
+
+## Article
+
+---
 bibliography: references.bib
 csl: https://www.zotero.org/styles/vancouver
+reference-section-title: Publication
+
 nocite: | 
   # nocite: means expressing bibliography without citation
   @Kogata2022
@@ -9,13 +18,7 @@ nocite: |
   @hoshino2020
   @iidaka2019
   @kogata2018
-
-reference-section-title: Article
 ---
-
-# Work
-
-## Article
 
 ::: {#refs}
 :::

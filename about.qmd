@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-[English](https://tmhr1303.github.io/tomohiro_kogata/about_english.html)
+[English](about_english.qmd)
 
 ## Education
 
