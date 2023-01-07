@@ -1,27 +1,25 @@
 ---
-title: "Tomohiro  Kogata"
+title: ""
+image: logo/TK_logo_index.png
 about: 
   template: trestles
   links:
-    - icon: researchgate
-      text: ResearchGate {{< fa brands researchgate >}}
+    - text: ResearchGate {{< ai researchgate size=2x color=#00CCBB >}} 
       href: https://www.researchgate.net/profile/Tomohiro-Kogata
-    - icon: orcid
-      text: ORCID {{< fa brands orcid >}}
+    - text: ORCID {{< ai orcid size=2x color=#A6CE39 >}}
       href: https://orcid.org/0000-0002-1142-0786
-    - icon: researchmap
-      text: research map
-      href: https://researchmap.jp/kgt-tmhr
-    - icon: google-scholar
-      text: Google Scholar
+    - text: Google Scholar {{< ai google-scholar size=2x color=#4285F4 >}}
       href: https://scholar.google.co.jp/citations?user=jyBR0iQAAAAJ&hl
+    - text: Scopus {{< ai scopus size=2x color=#F86923 >}}
+      href: https://www.scopus.com/authid/detail.uri?authorId=57203547952
+    - text: Web of Science {{< ai clarivate size=2x >}}
+      href: https://www.webofscience.com/wos/author/record/AAW-3473-2021
 ---
 
-**小方 智広**
+**小方 智広 [research map](https://researchmap.jp/kgt-tmhr "research map")**
 
 社会福祉法人仁至会　[認知症介護研究・研修大府センター](https://www.dcnet.gr.jp/center/obu/ "認知症介護研究・研修大府センター")　研究員
 
 **Tomohiro Kogata**
 
 Obu Center for Dementia Care Research and Practices, Researcher
-

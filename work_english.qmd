@@ -1,0 +1,53 @@
+---
+title: ""
+bibliography: references.bib
+csl: https://www.zotero.org/styles/vancouver
+nocite: | 
+  # nocite: means expressing bibliography without citation
+  @Kogata2022
+  @kogata2021
+  @hoshino2020
+  @iidaka2019
+  @kogata2018
+
+reference-section-title: Article
+---
+
+# Work
+
+## Article
+
+::: {#refs}
+:::
+
+## Book
+
+# Presentation
+
+## Oral
+
+-   [**Tomohiro Kogata**]{.underline}. A study on color recognition in patients with schizophrenia. Nagoya Yonsei University Research Exchange Meeting on Health Sciences (2016).
+
+## Poster
+
+-   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Epifanio Bagarinao. Classification of resting-state fMRI in autism and control subjects using a support vector machine. Annual Meeting of the Organization for Human Brain Mapping (2017).
+
+-   Tetsuya Iidaka, **Tomohiro Kogata**, Epifanio Bagarinao. Effects of global signal regression and head movement on connectivity analysis using resting state functional magnetic resonance imaging. Neuroscience (2017).
+
+-   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Yoko Mano. A resting state fMRI study in autism spectrum disorder. Brain Connects (2018).
+
+-   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Yoko Mano. Thalamocortical and corticocortical hyperconnectivity in autism spectrum disorder. Annual Meeting of the Organization for Human Brain Mapping (2018).
+
+-   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Yoko Mano. Network analysis of resting-state fMRI from a multi-site database: A comparison between autism spectrum disorder patients and control subjects. Neuroscience (2018).
+
+-   Tetsuya Iidaka, [**Tomohiro Kogata**]{.underline}, Hiroyuki Yamamoto. Functional significance of resting-state fMRI in relation with fixational eye movement. Annual Meeting of the Organization for Human Brain Mapping (2019).
+
+# Academic Activities
+
+-   BrainConnects (2022), Organizing Committee.
+
+# Awards
+
+-   The 53th Japanese Occupational Therapy Congress & Expo (2019), Excellent Presentation Award.
+
+# Funding

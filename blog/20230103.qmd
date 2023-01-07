@@ -7,4 +7,4 @@ categories:
 ---
 
 ウェブサイトを作りました。\
-[Quarto](https://quartopub.com)を使用して構築しています。
+[Quarto](https://quarto.org/)を使用して構築しています。

@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Tomohiro Kogata"
   
-  twitter-card: true
-  open-graph: true
+  favicon: logo/TK_logo_basic.png
+  
+  twitter-card:
+    image: logo/TK_logo_card.png
+    description: Website of Tomohiro Kogata
+  
+  open-graph:
+    image: logo/TK_logo_card.png
+    description: Website of Tomohiro Kogata
   
   navbar:
+    title: "Tomohiro Kogata"
+    logo: logo/TK_logo_basic.png
+    
     left:
       - href: index.qmd
         text: Home
@@ -18,27 +27,32 @@ website:
       - href: research.qmd
         icon: search
         text: Research
-      - href: publication.qmd
+      - href: work.qmd
         icon: file-earmark-text-fill
-        text: Publication
+        text: Work
       - href: news.qmd
         icon: bell-fill
         text: News
       - href: blog.qmd
         icon: vector-pen
         text: Blog
-  
+    
   page-footer: 
     center: "{{< fa graduation-cap >}} Tomohiro Kogata, 2023" 
     background: light
 
 format:
   html:
-    theme: cosmo
+    theme: style/cosmo_meidai_color.scss
+    page-layout: full
     css: styles.css
+    
     toc: true
+    page-navigation: true
+    
     link-external-newwindow: true
-    abstract-title: Research website by Tomohiro Kogata
+    
+    abstract-title: Website of Tomohiro Kogata
     keywords: 小方智広 作業療法 作業療法士 精神科作業療法 Tomohiro Kogata Occupational Therapy
 
 editor: visual
