@@ -2,4 +2,83 @@
 title: "Link"
 ---
 
-# 
+Under construction
+
+# Technic
+
+## Publishing
+
+[Quarto](https://quarto.org/)\
+[Quarto-extension](https://quarto.org/docs/extensions/)\
+[Awesome Quarto tips](https://github.com/mcanouil/awesome-quarto)\
+[Hugo](https://gohugo.io/)
+
+## Survey form
+
+[SurveyJS](https://surveyjs.io/)
+
+## Software
+
+R (Rstudio)\
+Inkscape\
+GIMP\
+[JsPsycho](https://www.jspsych.org/)
+
+## Productivity
+
+[Slack](https://slack.com/)\
+[Notion](https://www.notion.so/ja-jp)
+
+# Data visualization
+
+[from Data to Viz](https://www.data-to-viz.com/)\
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+
+# Data sharing
+
+[デジタル庁　データカタログ](https://www.data.go.jp/)\
+[OPENICPSR](https://www.openicpsr.org/openicpsr/)\
+[zenodo](https://zenodo.org/)\
+[Datacite](https://commons.datacite.org/)
+
+# Design
+
+## Guide
+
+[ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)\
+[デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/)
+
+## Template idea
+
+[Infograpia](https://infograpia.com/collections/infographics)
+
+## Image
+
+### Icon
+
+[Font Awesome](https://fontawesome.com/)\
+[Iconify](https://icon-sets.iconify.design/)\
+[lordicon](https://lordicon.com/icons)\
+[Bootstrap icons](https://icons.getbootstrap.com/)
+
+### Pictogram
+
+[Human pictogram 2.0](https://pictogram2.com/)
+
+### Illust
+
+[ちょうどいいイラスト](https://tyoudoii-illust.com/)\
+[Loosedrawing](https://loosedrawing.com/)\
+[ソコスト](https://soco-st.com/)
+
+### Anime
+
+[いらすとや](https://www.irasutoya.com/)
+
+### Medical illust
+
+[Smart servier](https://smart.servier.com/)
+
+### All
+
+[Openverse](https://wordpress.org/openverse/)

@@ -14,6 +14,7 @@ about:
       href: https://www.scopus.com/authid/detail.uri?authorId=57203547952
     - text: Web of Science {{< ai clarivate size=2x >}}
       href: https://www.webofscience.com/wos/author/record/AAW-3473-2021
+editor: visual
 ---
 
 **小方 智広 [research map](https://researchmap.jp/kgt-tmhr "research map")\
@@ -22,6 +23,7 @@ about:
 **Tomohiro Kogata\
 **Obu Center for Dementia Care Research and Practices, Researcher
 
+\
 {{< fa envelope-circle-check >}} E-mail: kogata{{< fa at >}}dcnet.gr.jp\
 {{< fa map-location-dot >}} 住所 〒474-0037 愛知県大府市半月町三丁目294番地
 

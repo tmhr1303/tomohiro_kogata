@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Tomohiro Kogata"
+  google-analytics: "G-M8EH4Z151X"
   favicon: logo/TK_logo_basic.png
   
   twitter-card:
