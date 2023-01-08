@@ -22,8 +22,8 @@ about:
 **Tomohiro Kogata\
 **Obu Center for Dementia Care Research and Practices, Researcher
 
-{{< fa envelope-circle-check size=2x >}} E-mail: **kogata**{{< fa at >}}**dcnet.gr.jp\
-**{{< fa map-location-dot size=2x >}} 住所 〒474-0037 愛知県大府市半月町三丁目294番地
+{{< fa envelope-circle-check >}} E-mail: kogata{{< fa at >}}dcnet.gr.jp\
+{{< fa map-location-dot >}} 住所 〒474-0037 愛知県大府市半月町三丁目294番地
 
 ```{r}
 #| echo: false
