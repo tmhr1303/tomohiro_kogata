@@ -16,10 +16,57 @@ about:
       href: https://www.webofscience.com/wos/author/record/AAW-3473-2021
 ---
 
-**小方 智広 [research map](https://researchmap.jp/kgt-tmhr "research map")**
+**小方 智広 [research map](https://researchmap.jp/kgt-tmhr "research map")\
+**社会福祉法人仁至会　[認知症介護研究・研修大府センター](https://www.dcnet.gr.jp/center/obu/ "認知症介護研究・研修大府センター")　研究員
 
-社会福祉法人仁至会　[認知症介護研究・研修大府センター](https://www.dcnet.gr.jp/center/obu/ "認知症介護研究・研修大府センター")　研究員
+**Tomohiro Kogata\
+**Obu Center for Dementia Care Research and Practices, Researcher
 
-**Tomohiro Kogata**
+---
 
-Obu Center for Dementia Care Research and Practices, Researcher
+{{< fa envelope-circle-check >}} E-mail: **kogata**{{< fa at >}}**dcnet.gr.jp\
+**{{< fa map-location-dot >}} 住所 〒474-0037 愛知県大府市半月町三丁目294番地
+
+```{r}
+#| echo: false
+
+pacman::p_load(leaflet)
+
+map_df = data.frame(
+  stringsAsFactors = FALSE,
+  name = c("認知症介護研究・研修大府センター", 
+           "JR大府駅", 
+           "JR名古屋駅"),
+  longitude = c(136.9410486, 
+                 136.9599631, 
+                 136.8793482),
+  latitude = c(34.997851, 
+               35.0086221, 
+               35.1709194),
+  color = c("green", 
+            "orange",
+            "orange")
+            )
+
+icon = awesomeIcons(
+  icon = ifelse(
+    map_df$name == '認知症介護研究・研修大府センター', 'building',
+    'train'),
+  iconColor = 'black',
+  library = 'fa',
+  markerColor = ifelse(
+    map_df$name == '認知症介護研究・研修大府センター', 'green',
+    'orange'))
+
+
+leaflet(map_df) %>% 
+  addTiles() %>%
+  addAwesomeMarkers(~longitude,
+                    ~latitude,
+                    icon = icon,
+                    popup = ~name,
+                    label = ~name
+                    )
+
+
+```

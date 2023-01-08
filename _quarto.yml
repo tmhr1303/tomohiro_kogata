@@ -7,10 +7,12 @@ website:
   favicon: logo/TK_logo_basic.png
   
   twitter-card:
+    title: Tomohiro Kogata
     image: logo/TK_logo_card.png
     description: Website of Tomohiro Kogata
   
   open-graph:
+    title: Tomohiro Kogata
     image: logo/TK_logo_card.png
     description: Website of Tomohiro Kogata
   
