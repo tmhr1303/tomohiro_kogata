@@ -12,7 +12,7 @@ about:
       href: https://scholar.google.co.jp/citations?user=jyBR0iQAAAAJ&hl
     - text: Scopus {{< ai scopus size=2x color=#F86923 >}}
       href: https://www.scopus.com/authid/detail.uri?authorId=57203547952
-    - text: Web of Science {{< ai clarivate size=2x >}}
+    - text: Web of Science {{< ai clarivate size=2x color=#5e33bfff >}}
       href: https://www.webofscience.com/wos/author/record/AAW-3473-2021
 editor: visual
 ---
@@ -21,15 +21,18 @@ editor: visual
 **社会福祉法人仁至会　[認知症介護研究・研修大府センター](https://www.dcnet.gr.jp/center/obu/ "認知症介護研究・研修大府センター")　研究員
 
 **Tomohiro Kogata\
-**Obu Center for Dementia Care Research and Practices, Researcher
-
+**Obu Center for Dementia Care Research and Practices, Researcher\
 \
-{{< fa envelope-circle-check >}} E-mail: kogata{{< fa at >}}dcnet.gr.jp\
+
+{{< fa envelope-circle-check >}} E-mail: kogata{{< fa at >}}dcnet.gr.jp
+
 {{< fa map-location-dot >}} 住所 〒474-0037 愛知県大府市半月町三丁目294番地
 
 ```{r}
 #| echo: false
+#| eval: false
 
+# map
 pacman::p_load(leaflet)
 
 map_df = data.frame(
@@ -64,7 +67,6 @@ leaflet(map_df) %>%
   addAwesomeMarkers(~longitude,
                     ~latitude,
                     icon = icon,
-                    popup = ~name,
                     label = ~name
                     )
 ```
