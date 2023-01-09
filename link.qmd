@@ -19,9 +19,9 @@ Under construction
 
 ## Software
 
-R (Rstudio)\
-Inkscape\
-GIMP\
+[R (Rstudio)](https://posit.co/download/rstudio-desktop/)\
+[Inkscape](https://inkscape.org/ja/)\
+[GIMP](https://www.gimp.org/)\
 [JsPsycho](https://www.jspsych.org/)
 
 ## Productivity
@@ -46,11 +46,13 @@ GIMP\
 ## Guide
 
 [ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)\
-[デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/)
+[デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/) \
+[色彩コーディネート](https://color.adobe.com/ja/create/color-wheel)
 
 ## Template idea
 
-[Infograpia](https://infograpia.com/collections/infographics)
+[Infograpia](https://infograpia.com/collections/infographics)\
+[AWESOME DESIGN WEB SITE GALLERY（ほめジョーズ）](https://homejaws.com/)
 
 ## Image
 
