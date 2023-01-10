@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-
+_publish.yml
+work_ex.qmd
+qrcode.qmd
+qrcode.html
 /.quarto/
