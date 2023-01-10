@@ -108,11 +108,15 @@ gtag('config', 'G-M8EH4Z151X', { 'anonymize_ip': true});
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Tomohiro Kogata">
 <meta property="og:description" content="Website of Tomohiro Kogata">
-<meta property="og:image" content="logo/TK_logo_card.png">
+<meta property="og:image" content="https://fancy-tartufo-9be2ba.netlify.app/logo\TK_logo_card.png">
 <meta property="og:site-name" content="Tomohiro Kogata">
+<meta property="og:image:height" content="256">
+<meta property="og:image:width" content="256">
 <meta name="twitter:title" content="Tomohiro Kogata">
 <meta name="twitter:description" content="Website of Tomohiro Kogata">
-<meta name="twitter:image" content="logo/TK_logo_card.png">
+<meta name="twitter:image" content="https://fancy-tartufo-9be2ba.netlify.app/logo\TK_logo_card.png">
+<meta name="twitter:image-height" content="256">
+<meta name="twitter:image-width" content="256">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -392,7 +396,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp(/https:\/\/fancy-tartufo-9be2ba\.netlify\.app/);
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
