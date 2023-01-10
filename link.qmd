@@ -29,7 +29,15 @@ Under construction
 [Slack](https://slack.com/)\
 [Notion](https://www.notion.so/ja-jp)
 
-# Data visualization
+## English
+
+[Trinka](https://www.trinka.ai/jp/)\
+[The Elements of Style](http://www.kt.rim.or.jp/~hisashim/elementsofstyle/)\
+[Thesaurus (Paraphrase)](https://www.thesaurus.com/)\
+[Collocation](https://hypcol.marutank.net/ja/)\
+[Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
+## Data visualization
 
 [from Data to Viz](https://www.data-to-viz.com/)\
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
@@ -46,7 +54,7 @@ Under construction
 ## Guide
 
 [ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)\
-[デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/) \
+[デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/)\
 [色彩コーディネート](https://color.adobe.com/ja/create/color-wheel)
 
 ## Template idea
