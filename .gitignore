@@ -3,7 +3,11 @@
 .RData
 .Ruserdata
 _publish.yml
+<<<<<<< HEAD
 work_ex.qmd
 qrcode.qmd
 qrcode.html
+=======
+
+>>>>>>> d9667437c913d057b58c51623702bb2aa5d4dffb
 /.quarto/

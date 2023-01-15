@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Tomohiro Kogata"
+  site-url: 'https://tmhr1303.github.io/tomohiro_kogata'
+  site-path: '/'
   google-analytics: "G-M8EH4Z151X"
   favicon: logo/TK_logo_basic.png
   
