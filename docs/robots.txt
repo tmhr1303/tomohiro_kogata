@@ -1,1 +1,1 @@
-Sitemap: https://fancy-tartufo-9be2ba.netlify.app/sitemap.xml
+Sitemap: https://tmhr1303.github.io/tomohiro_kogata/sitemap.xml

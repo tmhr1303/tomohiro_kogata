@@ -2,42 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/about.html</loc>
-    <lastmod>2023-01-10T13:02:37.532Z</lastmod>
+    <lastmod>2023-01-15T13:59:08.111Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/about_english.html</loc>
-    <lastmod>2023-01-10T13:02:38.219Z</lastmod>
+    <lastmod>2023-01-15T13:59:08.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tmhr1303.github.io/tomohiro_kogata/blog/20230103.html</loc>
+    <lastmod>2023-01-15T13:59:09.568Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/blog.html</loc>
-    <lastmod>2023-01-10T13:02:39.697Z</lastmod>
+    <lastmod>2023-01-15T13:59:10.277Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/index.html</loc>
-    <lastmod>2023-01-10T13:02:42.313Z</lastmod>
+    <lastmod>2023-01-15T13:59:12.715Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/link.html</loc>
-    <lastmod>2023-01-10T13:02:43.042Z</lastmod>
+    <lastmod>2023-01-15T13:59:13.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tmhr1303.github.io/tomohiro_kogata/logo/qrcode.html</loc>
+    <lastmod>2023-01-15T13:59:18.139Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/news.html</loc>
-    <lastmod>2023-01-10T13:02:43.694Z</lastmod>
+    <lastmod>2023-01-15T13:59:18.764Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/research.html</loc>
-    <lastmod>2023-01-10T13:02:44.354Z</lastmod>
+    <lastmod>2023-01-15T13:59:19.412Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/research_english.html</loc>
-    <lastmod>2023-01-10T13:02:45.022Z</lastmod>
+    <lastmod>2023-01-15T13:59:20.077Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/work.html</loc>
-    <lastmod>2023-01-10T13:02:46.770Z</lastmod>
+    <lastmod>2023-01-15T13:59:21.897Z</lastmod>
   </url>
   <url>
     <loc>https://tmhr1303.github.io/tomohiro_kogata/work_english.html</loc>
-    <lastmod>2023-01-10T13:02:48.404Z</lastmod>
+    <lastmod>2023-01-15T13:59:23.603Z</lastmod>
   </url>
 </urlset>
