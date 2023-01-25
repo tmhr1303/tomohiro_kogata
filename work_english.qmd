@@ -47,7 +47,7 @@ nocite: |
 
 # Academic Activities
 
--   BrainConnects (2022), Organizing Committee.
+-   [BrainConnects (2022)](https://sites.google.com/view/brainconnects2022), Organizing Committee.
 
 # Awards
 
